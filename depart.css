@@ -1,0 +1,22 @@
+.d1 h2{
+    color: brown;
+}
+.d1 p{
+    text-align: justify;
+}
+.d2 h2{
+    color: brown;
+    text-align: justify;
+}
+.d2 h3{
+    color: rgba(12, 170, 243, 0.87);
+}
+.d3 h2{
+    color: brown;
+}
+.d3 h4{
+    color: crimson;
+}
+.d3 h3{
+    color: darkorange;
+}
